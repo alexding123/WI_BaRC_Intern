@@ -1,0 +1,4 @@
+January 26, 2018: 09:04AM
+./groupBy -i sample_input.txt -g 1,2 -c 8,9,10,12,13,14,15,16 -o mean,mean,mean,collapse,median,median,median,mean
+January 26, 2018: 09:30AM
+./groupBy -i sample_input.txt -g 1,2 -c 8,9,10,12,13,14,15,16 -o mean,mean,mean,collapse,median,median,median,mean

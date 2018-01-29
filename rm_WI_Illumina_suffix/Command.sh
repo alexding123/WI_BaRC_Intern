@@ -1,0 +1,1 @@
+./rm_WI_Illumina_suffix.STDIN.py < sample_input.txt > sample_output.txt
